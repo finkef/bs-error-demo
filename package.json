@@ -1,0 +1,23 @@
+{
+  "name": "bs-platform-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bs-platform": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finkef/bs-error-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finkef/bs-error-demo/issues"
+  },
+  "homepage": "https://github.com/finkef/bs-error-demo#readme"
+}
